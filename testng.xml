@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Naukri Automation Suite">
+    <test name="Functional Test">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.SignupTest"/>
+            <class name="tests.ForgotPasswordTest"/>
+        </classes>
+    </test>
+</suite>
